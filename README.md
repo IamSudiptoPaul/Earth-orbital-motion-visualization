@@ -2,6 +2,7 @@
 This is a computer graphics project. I used C++ language and opengl for this project. The output basically shows the orbital motion of Earth around sun and moon around earth. The whole project is basically visualized in 2d.
 
 (Setup opengl and select the path of mingw from code compiler at first)
+You can use this template of this code by following proper copyright rules and mentioning my credit.
 
 The basic code structure for primitive for opengl is given below:
 
